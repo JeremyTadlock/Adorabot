@@ -1,2 +1,2 @@
 # Adorabot
-A bot that posts pictures of adorable animals.
+A bot that finds and posts pictures of adorable animals.
